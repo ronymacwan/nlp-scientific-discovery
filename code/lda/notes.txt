@@ -1,0 +1,7 @@
+Execute python codes in below sequences one by one.
+
+1. scrapping.py
+2. store_data.py
+3. data_preprocessing.py
+4. model.py
+5. topic_interpretation.py
