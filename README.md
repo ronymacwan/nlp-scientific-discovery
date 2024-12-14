@@ -9,13 +9,13 @@ This project is submitted for the course **INFO 555 - Applied NLP**. It focuses 
 
 ## GitHub Project Structure
 
-- **`Code` folder**: Contains all necessary scripts to reproduce the results.  
+- **`code` folder**: Contains all necessary scripts to reproduce the results.  
   - Scripts with `.ipynb` extension can be imported into **Google Colab** for modification or execution.  
   - Scripts with `.py` extension can be downloaded on any machine with Python installed and executed directly.
 
-- **`WriteUp` folder**: Contains the PDF version of the project paper for reference and documentation.
+- **`writeup` folder**: Contains the PDF version of the project paper for reference and documentation.
 
-- **`Dataset` folder**: Contains the dataset used in the project.
+- **`dataset` folder**: Contains the dataset used in the project.
 
 ## Code
 
